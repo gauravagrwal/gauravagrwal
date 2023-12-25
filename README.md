@@ -7,10 +7,10 @@
 </p>
 
 - 🔭 I’m currently working on ... Xamarin Forms project
-- 🌱 I’m currently learning ... C#, JavaScript
+- 🌱 I’m currently learning ... C#, Unity
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I’m looking for help with ... Xamarin Forms
-- 💬 Ask me about ... C#, Xamarin Forms
+- 🤔 I’m looking for help with ... Unity projects
+- 💬 Ask me about ... C#, Xamarin Forms, Unity
 - 😄 Pronouns: he/him/his
 
 ## Tech Stack:
@@ -30,6 +30,7 @@
 	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 	<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
+        <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
 </p> 
 
 ---
