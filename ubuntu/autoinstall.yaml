@@ -1,0 +1,6 @@
+autoinstall:
+  version: 1
+  identity:
+    hostname: ubuntu
+    username: sunraku
+    password: "$6$ZE4WV3QRJhPUnsNv$BpkTBYjUOxOiWV5sNPYDSitTwxW.3NHLmhRqptzpa8a4KTxGpkvMaSDbyq4PVri9kdpD1t7ldUBgwB6uveObg." #ubuntu
